@@ -110,7 +110,7 @@ body:before {
     width: 100%;
     height: 50px;
     display: block !important;
-    background-color: #212d36;
+    ;
     -webkit-transition: height .1s;
     -moz-transition: height .1s;
     -ms-transition: height .1s;
